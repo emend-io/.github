@@ -38,8 +38,7 @@ This code of conduct applies both within project spaces and in public spaces
 when an individual is representing the project or its community.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project maintainers or [Benji Vesterby](https://github.com/benjivesterby)
-directly via email [benji@devnw.com](mailto:benji@devnw.com).
+reported by contacting the project maintainers via email [admin@emend.io](mailto:admin@emend.io).
 
 This Code of Conduct is adapted from the Contributor Covenant
 (<http://contributor-covenant.org>), version 1.2.0, available at
